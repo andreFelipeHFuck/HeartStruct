@@ -1,0 +1,27 @@
+{
+  "name": "heartstruct",
+  "version": "1.0.0",
+  "description": "Library for data structures and design patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreFelipeHFuck/HeartStruct.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/andreFelipeHFuck/HeartStruct/issues"
+  },
+  "homepage": "https://github.com/andreFelipeHFuck/HeartStruct#readme",
+  "dependencies": {
+    "rxjs": "^7.8.2"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.16"
+  }
+}
